@@ -1,4 +1,4 @@
-aiohttp==3.8.5  # (Use the latest version)
+aiohttp==3.8.5
 python-dotenv
 aiohttp
 fastapi
